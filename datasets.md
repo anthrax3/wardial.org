@@ -12,6 +12,7 @@ permalink: /datasets/
 
 ## Archived Scans
  - [9x Scans](http://packetstormsecurity.com/groups/9x/)
+ - [TUCoPS Scans](http://tucops.info/tucops3/phreak/numbers/index.htm)
 
 ## Reverse Lookup Services
  - [OpenCNAM](http://www.opencnam.us). Provides both cached and on-demand CNAM dips for a low fee.
