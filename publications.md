@@ -12,3 +12,6 @@ permalink: /publications/
 ## Videos
 - [The BBS Documentary](http://www.bbsdocumentary.com/)
 - [Unauthorized Access](https://www.youtube.com/watch?v=UDIPVmPEqjc)
+
+## Blog Posts
+- [The sound of the dialup, pictured](http://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
