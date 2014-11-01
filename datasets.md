@@ -13,6 +13,11 @@ permalink: /datasets/
 ## Archived Scans
  - [9x Scans](http://packetstormsecurity.com/groups/9x/)
 
+## Reverse Lookup Services
+ - [OpenCNAM](http://www.opencnam.us). Provides both cached and on-demand CNAM dips for a low fee.
+ - [Alcazar Networks](http://www.alcazarnetworks.com/data_services_lnp_lrn.php). Provides LNP/LNR lookups for a low fee.
+ - [Spy Dialer](http://www.spydialer.com/). Provides on-demand CNAM and voicemail audio.
+
 ## Payphone Directories
 
  - [El Jefe's Payphone Directory](http://www.payphone-directory.org/)
