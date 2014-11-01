@@ -10,4 +10,4 @@ permalink: /publications/
 
 ## Videos
 - [The BBS Documentary](http://www.bbsdocumentary.com/)
-- [Unauthorized Access](https://www.youtube.com/watch?v=UDIPVmPEqjc))
+- [Unauthorized Access](https://www.youtube.com/watch?v=UDIPVmPEqjc)
