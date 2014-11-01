@@ -17,8 +17,14 @@ permalink: /software/
 - [PhoneSweep](https://www.niksun.com/product.php?id=17)
 - [TeleSweep](http://www.securelogix.com/modemscanner/)
 
-## Historical Projects
+## Historical Projects (Available)
 
 - [ToneLoc](http://en.wikipedia.org/wiki/ToneLoc) [ DOS ]
 - [Phone Man](http://csdb.dk/release/?id=58069) [ C64 ]
 - [ward.c](http://www.0xdeadbeef.info/code/ward.c) [ Linux ]
+
+## Historical Projects (Missing)
+
+- ShokDial
+- TkScan
+
